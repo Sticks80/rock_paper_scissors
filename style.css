@@ -1,0 +1,18 @@
+
+.container {
+    display:flex;
+    justify-content: space-around;
+    border: solid 2px pink;
+
+}
+
+
+
+h1 
+        {   
+            color: rgb(0, 68, 255);
+            margin: 20px, 100px, 200px, 100px;
+            
+            text-align: center;
+
+        }
